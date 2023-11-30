@@ -12,6 +12,7 @@ namespace FirstProject
          
         } 
         public virtual DbSet<Department> Department { get; set; }   
+        public virtual DbSet<User> User { get; set; } 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
 {
     modelBuilder.Entity<Department>(entity =>

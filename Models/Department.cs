@@ -25,9 +25,5 @@ namespace FirstProject.Models
       //  [JsonIgnore]
        //  public virtual Employee  Employee { get;set; }
 
-        public static explicit operator Ok(Department? v)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

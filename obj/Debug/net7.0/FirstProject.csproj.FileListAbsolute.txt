@@ -46,3 +46,11 @@ C:\Users\Erkihun mulu\EEP\FirstProject\bin\Debug\net7.0\Dapper.dll
 C:\Users\Erkihun mulu\EEP\FirstProject\bin\Debug\net7.0\MediatR.dll
 C:\Users\Erkihun mulu\EEP\FirstProject\bin\Debug\net7.0\MediatR.Contracts.dll
 C:\Users\Erkihun mulu\EEP\FirstProject\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Erkihun mulu\EEP\FirstProject\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Erkihun mulu\EEP\FirstProject\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Erkihun mulu\EEP\FirstProject\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Erkihun mulu\EEP\FirstProject\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Erkihun mulu\EEP\FirstProject\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Erkihun mulu\EEP\FirstProject\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Erkihun mulu\EEP\FirstProject\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Erkihun mulu\EEP\FirstProject\bin\Debug\net7.0\System.Security.Permissions.dll

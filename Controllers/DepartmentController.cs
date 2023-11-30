@@ -5,8 +5,11 @@ using FirstProject.Application.Queries;
 using FirstProject.DTO;
 using FirstProject.Application.Commands;
 using FirstProject.Application.Command;
+using Microsoft.AspNetCore.Authorization;
+
 
 namespace FirstProject.Controllers;
+[Authorize]
 [ApiController]
 [Route("[controller]")]
 public class DepartmentController: ControllerBase
